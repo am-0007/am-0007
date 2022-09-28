@@ -3,8 +3,6 @@ Hi 👋, I'm am-0007
 
 I'm Ajay Maharjan from Nepal, and I do content on Backend Development. I really enjoy learning Java Language and its framework like Spring. I'm enjoying working on microservices, kubernetes and Docker.
 
-<img align="right" alt="coding" border-radius="250" width="250px" height="250px" src="https://media-exp1.licdn.com/dms/image/C5603AQH1Vno0tuAupA/profile-displayphoto-shrink_800_800/0/1655797202009?e=1665619200&v=beta&t=OTnTZrxjd0z40uaIlKkkz1YosC_el9dBf7q7ItZCCtE">
-
 ## Skills
 * ⚛️ React
 * 💻 HTML, CSS, Javascript
