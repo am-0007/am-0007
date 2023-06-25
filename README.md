@@ -1,13 +1,15 @@
 
 Hi 👋, I'm am-0007
 
-I'm Ajay Maharjan from Nepal, and I do content on Backend Development. I really enjoy learning Java Language and its framework like Spring. I'm enjoying working on microservices, kubernetes and Docker.
+A dedicated and enthusiastic job seeker, I am determined to secure an entry-level Java Developer position where I can showcase my strong organizational skills and unwavering dedication. With a genuine passion for coding and a relentless pursuit of excellence, I am excited to contribute my skills and knowledge to help the team achieve remarkable results.
 
 ## Skills
 * ⚛️ React
 * 💻 HTML, CSS, Javascript
 * ☕ Java 
-* 🎛️ Docker and kubernetes
+* 🎛️ Docker and Kubernetes
+* :snake: Python
+* :robot: Pytorch
 
 ## Connect with me:
 <p align="left">
