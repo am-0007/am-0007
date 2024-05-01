@@ -1,13 +1,13 @@
 
-Hi 👋, I'm am-0007
+Hi 👋, 
 
-A dedicated and enthusiastic job seeker, I am determined to secure an entry-level Java Developer position where I can showcase my strong organizational skills and unwavering dedication. With a genuine passion for coding and a relentless pursuit of excellence, I am excited to contribute my skills and knowledge to help the team achieve remarkable results.
+I'm Ajay Maharjan, a dedicated and enthusiastic Associate Software Engineer at Deerhold Ltd, where I am committed to crafting high-quality software solutions. With a solid foundation in Java development and a passion for innovation, I thrive in collaborative environments where I can contribute my organizational skills and unwavering dedication to achieve remarkable results.
 
 ## Skills
 * ⚛️ React
 * 💻 HTML, CSS, Javascript
 * ☕ Java 
-* 🎛️ Docker and Kubernetes
+* 🎛️ Docker
 * :snake: Python
 * :robot: Pytorch
 
